@@ -1,0 +1,15 @@
+10/27/16 12:57:30 [4568][1][FATAL] Bad subpanel definition, it has incorrect value for get_subpanel_data property flexrelate_accounts
+10/27/16 12:58:26 [4568][1][FATAL] Bad subpanel definition, it has incorrect value for get_subpanel_data property flexrelate_accounts
+11/04/16 11:57:24 [1348][1][FATAL] Bad subpanel definition, it has incorrect value for get_subpanel_data property flexrelate_accounts
+11/04/16 11:57:33 [1348][1][FATAL] Bad subpanel definition, it has incorrect value for get_subpanel_data property flexrelate_accounts
+11/04/16 11:57:56 [1348][1][FATAL] Bad subpanel definition, it has incorrect value for get_subpanel_data property flexrelate_accounts
+11/04/16 12:22:34 [4928][-none-][FATAL] Could not connect to DB server localhost as root. port : No connection could be made because the target machine actively refused it.
+
+02/09/17 13:01:24 [4816][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarce_custom'
+02/09/17 13:02:19 [4816][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'sugar_custom.currencies' doesn't exist
+02/09/17 13:02:19 [4816][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'sugar_custom.config' doesn't exist
+02/09/17 13:05:37 [4816][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'sugar_custom.currencies' doesn't exist
+02/09/17 13:05:37 [4816][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'sugar_custom.config' doesn't exist
+02/09/17 13:18:04 [4816][-none-][FATAL] SECURITY: User authentication for admin failed
+02/09/17 13:18:04 [4816][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+02/09/17 13:29:46 [4816][1][FATAL] Bad subpanel definition, it has incorrect value for get_subpanel_data property flexrelate_accounts

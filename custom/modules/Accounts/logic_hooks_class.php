@@ -13,7 +13,7 @@
                 $bean->ignore_update_c = true;
                 if (empty($bean->fetched_row)) 
                 {
-                    $bean->name = $bean->name.' - Q';
+                    $bean->name = $bean->name.' - X';
                 }
             }
         }

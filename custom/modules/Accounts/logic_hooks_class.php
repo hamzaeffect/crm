@@ -27,7 +27,7 @@
             {
 
                 $bean->ignore_update_c_n = true;
-                $bean->phone_office = '123-456-789';
+                $bean->phone_office = '987-654-321';
                 print '<pre>';
                 print_r($bean->ignore_update_c_n);
                 $bean->save();

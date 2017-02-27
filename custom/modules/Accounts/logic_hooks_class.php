@@ -19,7 +19,7 @@
         }
         function insert_fax($bean, $event, $arguments)
         {
-                $bean->phone_fax = '987-658-254';
+                $bean->phone_fax = '333-444-555';
         }
         function insert_office_Phone($bean, $event, $arguments)
         {
